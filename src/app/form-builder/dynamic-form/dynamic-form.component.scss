@@ -1,0 +1,27 @@
+.form {
+    display: flex;
+    border: 2px solid black;
+    width: 500px;
+    padding: 2%;
+    border-radius: 4px;
+    margin: auto;
+}
+h3 {
+    color: yellowgreen;
+    margin-left: 30px;
+}
+input, select {
+    width: 100px;
+    margin-top: 20px;
+}
+button {
+    width: 100px;
+    margin-top: 20px;
+    margin-left: 50%;
+}
+span{
+    color: red;
+}
+.mg-3{
+    margin-left: 30px;
+}
